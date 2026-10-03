@@ -10,7 +10,6 @@ Para cumplir con el principio de veracidad de la **Ley 1090 de 2006** y no atrib
 
 | Marcador | Descripción | Dónde aparece | Ejemplo de reemplazo |
 |---|---|---|---|
-| `[TIEMPO_RESPUESTA]` | Tiempo estimado de respuesta a contactos iniciales. | Encabezado principal (Hero) | `Menos de 24 horas` o `Mismo día hábil` |
 | `[PLAZO_DICTAMEN]` | Plazo habitual de entrega del informe pericial formal foliado. | Sección Proceso y FAQ | `15 a 20 días hábiles` |
 | `[REVISION_GRATUITA]` | Si la valoración preliminar de viabilidad tiene o no costo. | Sección Proceso (Paso 01) | `(Revisión preliminar sin costo)` |
 
