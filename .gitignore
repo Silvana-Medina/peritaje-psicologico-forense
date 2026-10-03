@@ -1,0 +1,17 @@
+# Documentos con datos personales o sensibles (Ley 1581 de 2012)
+*.docx
+*.pdf
+Hoja_de_Vida_Silvana_Medina.docx
+
+# Documentos internos de auditoria y estrategia comercial
+plan_ingresos.html
+PLAN_ACCION_INGRESOS.md
+INFORME_AUDITORIA_LEGAL.md
+AUDITORIA_LEGAL_COMPLIANCE.md
+CONTEXT.md
+
+# Archivos de entorno y temporales
+.DS_Store
+Thumbs.db
+node_modules/
+scratch/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://silvanamedinaforense.github.io/sitemap.xml

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0B2243"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#977E67" stroke-width="2"/>
+  <text x="90" y="160" font-family="'Lora', Georgia, serif" font-size="32" fill="#C6AA7C" letter-spacing="1">SILVANA MEDINA ANACONA</text>
+  <text x="90" y="210" font-family="'Poppins', sans-serif" font-size="22" fill="#CAD5DD">Psicología Jurídica y Forense | Florencia, Caquetá</text>
+  <line x1="90" y1="245" x2="1110" y2="245" stroke="rgba(151, 126, 103, 0.4)" stroke-width="1.5"/>
+  <text x="90" y="325" font-family="'Lora', Georgia, serif" font-size="52" fill="#FAF7F4" font-weight="600">
+    <tspan x="90" dy="0">Peritaje psicológico forense con</tspan>
+    <tspan x="90" dy="70">sustento técnico y defensa en audiencia</tspan>
+  </text>
+  <text x="90" y="490" font-family="'Poppins', sans-serif" font-size="20" fill="#F2ECE7">
+    Evaluaciones periciales en procesos penales, civiles y de familia.
+  </text>
+  <text x="90" y="530" font-family="'Poppins', sans-serif" font-size="18" fill="#C6AA7C">
+    Atención presencial en Florencia y virtual en todo Colombia | Tel: 316 382 7174
+  </text>
+</svg>
