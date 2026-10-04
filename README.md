@@ -4,16 +4,10 @@ Sitio web estático, accesible, de alto rendimiento y costo cero para la present
 
 ---
 
-## 1. Marcadores Pendientes de Confirmar
+## 1. Estado de Datos y Marcadores
+Todos los datos profesionales, plazos de entrega, condiciones de revisión y titulaciones universitarias han sido debidamente confirmados e integrados en el código de producción. No restan marcadores pendientes en el sitio web.
 
-Para cumplir con el principio de veracidad de la **Ley 1090 de 2006** y no atribuir datos inexactos, los siguientes valores se encuentran delimitados con marcadores y deben reemplazarse antes del lanzamiento definitivo:
-
-| Marcador | Descripción | Dónde aparece | Ejemplo de reemplazo |
-|---|---|---|---|
-| `[PLAZO_DICTAMEN]` | Plazo habitual de entrega del informe pericial formal foliado. | Sección Proceso y FAQ | `15 a 20 días hábiles` |
-| `[REVISION_GRATUITA]` | Si la valoración preliminar de viabilidad tiene o no costo. | Sección Proceso (Paso 01) | `(Revisión preliminar sin costo)` |
-
-*(Nota: La fotografía profesional real en sala de audiencias ya fue integrada en `img/silvana-medina.jpg`).*
+*(Nota: La fotografía profesional real en sala de audiencias se encuentra integrada en `img/silvana-medina.jpg`).*
 
 ---
 
